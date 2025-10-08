@@ -1,8 +1,8 @@
-# "Online Summerschool Python für Ingenieurinnen" 2022
+# Python als Tool fürs Studium
 
 
 
-Dieses Repo enthält das Material zum Fortgeschrittenen-Teil der ["Online Summerschool Python für Ingenieurinnen" 2022](https://tu-dresden.de/ing/maschinenwesen/ifww/biomaterialien/forschung/korrosion-und-oberflaechen/summerschool).
+Dieses Repo enthält das Material Skill-Sharing-Workshop im Rahmen der ET-ESE 2025.
 
 Es dient hauptsächlich der Nutzung von *[Binder](https://mybinder.org/)*.
 Das ist ein kostenloser Dienst, mit dem Jupyter-Notebooks (und damit Python-Code) unkompliziert über den Browser ausgeführt werden können.
